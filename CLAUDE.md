@@ -1,4 +1,4 @@
-# StatMob — Claude Instructions
+# Terrace — Claude Instructions
 
 ## Project Vision
 A rich, cinematic football stats dashboard. EPL-first, historically deep (back to ~1997).
