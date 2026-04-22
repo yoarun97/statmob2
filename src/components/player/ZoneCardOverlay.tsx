@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import type { PlayerIndex, PlayerDetail } from '@/types';
 import { useTerraceStore } from '@/lib/store';
@@ -108,6 +109,20 @@ export function ZoneCardOverlay({ revealedZones, player, detail, kitPrimary }: Z
   const pinnedZone     = useTerraceStore((s) => s.pinnedZone);
   const setPinnedZone  = useTerraceStore((s) => s.setPinnedZone);
 
+  const [isMobile, setIsMobile] = useState(false);
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 640);
+    check();
+    window.addEventListener('resize', check, { passive: true });
+    return () => window.removeEventListener('resize', check);
+  }, []);
+
+  const CARD_W    = isMobile ? 88  : 128;
+  const CARD_MARGIN = isMobile ? 4   : 8;
+  const FONT_VAL  = isMobile ? '1.1rem' : '1.55rem';
+  const FONT_LABEL = isMobile ? '0.42rem' : '0.5rem';
+  const FONT_SUB  = isMobile ? '0.44rem' : '0.52rem';
+
   const revealedList = ZONES.filter((z) => revealedZones.has(z.id));
 
   return (
@@ -166,8 +181,8 @@ export function ZoneCardOverlay({ revealedZones, player, detail, kitPrimary }: Z
               style={{
                 position:      'absolute',
                 top:           zone.top,
-                ...(isLeft ? { left: 8 } : { right: 8 }),
-                width:         128,
+                ...(isLeft ? { left: CARD_MARGIN } : { right: CARD_MARGIN }),
+                width:         CARD_W,
                 pointerEvents: 'auto',
                 cursor:        'pointer',
               }}
@@ -195,7 +210,7 @@ export function ZoneCardOverlay({ revealedZones, player, detail, kitPrimary }: Z
                 {/* Zone label — small caps */}
                 <div style={{
                   fontFamily:    'var(--font-mono)',
-                  fontSize:      '0.5rem',
+                  fontSize:      FONT_LABEL,
                   letterSpacing: '0.18em',
                   textTransform: 'uppercase',
                   fontVariant:   'small-caps',
@@ -221,7 +236,7 @@ export function ZoneCardOverlay({ revealedZones, player, detail, kitPrimary }: Z
                 {/* Primary stat — large and prominent */}
                 <div style={{
                   fontFamily:  'var(--font-mono)',
-                  fontSize:    '1.55rem',
+                  fontSize:    FONT_VAL,
                   fontWeight:  800,
                   color:       '#f0f0f0',
                   lineHeight:  1.1,
@@ -234,7 +249,7 @@ export function ZoneCardOverlay({ revealedZones, player, detail, kitPrimary }: Z
                 {/* Sub info */}
                 <div style={{
                   fontFamily:  'var(--font-mono)',
-                  fontSize:    '0.52rem',
+                  fontSize:    FONT_SUB,
                   color:       '#7788aa',
                   marginTop:   4,
                   lineHeight:  1.3,

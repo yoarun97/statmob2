@@ -133,6 +133,7 @@ export function StadiumCanvas({ onSettled }: { onSettled: () => void }) {
       <Canvas
         camera={{ position: [35, 30, 62], fov: 55 }}
         gl={{ antialias: true }}
+        dpr={[1, 1.5]}
         style={{ background: 'transparent' }}
       >
         <ambientLight intensity={2.8} />
@@ -168,6 +169,7 @@ export function StadiumCanvas({ onSettled }: { onSettled: () => void }) {
                   animate={{ opacity: 1 }}
                   exit={{ opacity: 0, transition: { duration: 0.2 } }}
                   transition={{ delay: 1.0, duration: 0.6 }}
+                  className="hidden sm:block"
                   style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}
                 >
                   <svg width="130" height="80" viewBox="0 0 130 80" fill="none">

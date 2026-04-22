@@ -60,7 +60,7 @@ export function PlayerDNA() {
       <div className="flex flex-col md:flex-row gap-6 md:gap-8 flex-1">
 
         {/* Left column: 3D canvas + plinth, unified as one bordered panel */}
-        <div className="md:w-[45%] flex flex-col" style={{ minHeight: 380 }}>
+        <div className="md:w-[45%] flex flex-col" style={{ minHeight: 300 }}>
           <div
             style={{
               flex:         1,
@@ -69,12 +69,11 @@ export function PlayerDNA() {
               border:       '1px solid #1a1a2a',
               borderRadius: 8,
               overflow:     'hidden',
-              // Explicit min-height so canvas is useful on mobile
-              minHeight:    380,
+              minHeight:    300,
             }}
           >
             {/* Canvas — fills available height; zone cards are absolutely positioned inside */}
-            <div style={{ position: 'relative', flex: 1, minHeight: 320 }}>
+            <div style={{ position: 'relative', flex: 1, minHeight: 260 }}>
               <PlayerCanvas
                 className="absolute inset-0 w-full h-full"
                 hasPlayer={!!activePlayer}

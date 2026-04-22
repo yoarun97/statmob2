@@ -67,6 +67,7 @@ export function PlayerCanvas({
         shadows
         camera={{ position: [0, 0.3, 3.4], fov: 52 }}
         gl={{ alpha: true, antialias: true }}
+        dpr={[1, 1.5]}
         style={{ background: 'transparent' }}
       >
         {/* Dark-bg lighting rig: moderate ambient keeps deep-navy bg, rim lights
