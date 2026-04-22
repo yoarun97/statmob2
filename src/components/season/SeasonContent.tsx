@@ -194,7 +194,7 @@ export function SeasonContent() {
 
               {/* Thick bottom rule */}
               <div style={{ borderTop: '3px solid var(--editorial-text)' }} />
-            </div></div></div>
+            </div></div>
 
             {/* Tabs */}
             <Tabs.Root defaultValue="scorers" className="flex flex-col gap-4">
