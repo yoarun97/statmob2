@@ -1,0 +1,72 @@
+{
+  "id": "dion-dublin",
+  "name": "Dion Dublin",
+  "club": "Aston Villa",
+  "position": "Striker",
+  "goals": 111,
+  "appearances": 362,
+  "seasons": [
+    "1992-93",
+    "1993-94",
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02"
+  ],
+  "seasonStats": [
+    {
+      "season": "1992-93",
+      "goals": 1,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1993-94",
+      "goals": 0,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1994-95",
+      "goals": 13,
+      "club": "Coventry"
+    },
+    {
+      "season": "1995-96",
+      "goals": 14,
+      "club": "Coventry"
+    },
+    {
+      "season": "1996-97",
+      "goals": 13,
+      "club": "Coventry"
+    },
+    {
+      "season": "1997-98",
+      "goals": 18,
+      "club": "Coventry"
+    },
+    {
+      "season": "1998-99",
+      "goals": 11,
+      "club": "Aston Villa"
+    },
+    {
+      "season": "1999-00",
+      "goals": 9,
+      "club": "Aston Villa"
+    },
+    {
+      "season": "2000-01",
+      "goals": 13,
+      "club": "Aston Villa"
+    },
+    {
+      "season": "2001-02",
+      "goals": 10,
+      "club": "Aston Villa"
+    }
+  ]
+}

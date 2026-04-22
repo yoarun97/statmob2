@@ -1,0 +1,83 @@
+{
+  "id": "teddy-sheringham",
+  "name": "Teddy Sheringham",
+  "club": "Man Utd",
+  "goals": 146,
+  "appearances": 418,
+  "seasons": [
+    "1992-93",
+    "1993-94",
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04"
+  ],
+  "seasonStats": [
+    {
+      "season": "1992-93",
+      "goals": 21,
+      "club": "Tottenham"
+    },
+    {
+      "season": "1993-94",
+      "goals": 14,
+      "club": "Tottenham"
+    },
+    {
+      "season": "1994-95",
+      "goals": 18,
+      "club": "Tottenham"
+    },
+    {
+      "season": "1995-96",
+      "goals": 16,
+      "club": "Tottenham"
+    },
+    {
+      "season": "1996-97",
+      "goals": 7,
+      "club": "Tottenham"
+    },
+    {
+      "season": "1997-98",
+      "goals": 9,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1998-99",
+      "goals": 2,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1999-00",
+      "goals": 5,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2000-01",
+      "goals": 15,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2001-02",
+      "goals": 10,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2002-03",
+      "goals": 22,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2003-04",
+      "goals": 9,
+      "club": "Portsmouth"
+    }
+  ]
+}

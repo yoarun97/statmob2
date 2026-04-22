@@ -1,0 +1,95 @@
+{
+  "id": "jermain-defoe",
+  "name": "Jermain Defoe",
+  "club": "Tottenham",
+  "goals": 162,
+  "appearances": 496,
+  "seasons": [
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18"
+  ],
+  "seasonStats": [
+    {
+      "season": "2001-02",
+      "goals": 7,
+      "club": "West Ham"
+    },
+    {
+      "season": "2002-03",
+      "goals": 9,
+      "club": "West Ham"
+    },
+    {
+      "season": "2003-04",
+      "goals": 11,
+      "club": "West Ham"
+    },
+    {
+      "season": "2004-05",
+      "goals": 17,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2008-09",
+      "goals": 15,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2009-10",
+      "goals": 18,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2010-11",
+      "goals": 3,
+      "club": "Portsmouth"
+    },
+    {
+      "season": "2011-12",
+      "goals": 11,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2012-13",
+      "goals": 11,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2013-14",
+      "goals": 8,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2014-15",
+      "goals": 10,
+      "club": "Toronto FC"
+    },
+    {
+      "season": "2015-16",
+      "goals": 15,
+      "club": "Sunderland"
+    },
+    {
+      "season": "2016-17",
+      "goals": 15,
+      "club": "Sunderland"
+    },
+    {
+      "season": "2017-18",
+      "goals": 5,
+      "club": "Bournemouth"
+    }
+  ]
+}

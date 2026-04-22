@@ -1,0 +1,60 @@
+{
+  "id": "mohamed-salah",
+  "name": "Mohamed Salah",
+  "club": "Liverpool",
+  "position": "Winger",
+  "goals": 190,
+  "appearances": 286,
+  "seasons": [
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "seasonStats": [
+    {
+      "season": "2017-18",
+      "goals": 32,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2018-19",
+      "goals": 22,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2019-20",
+      "goals": 19,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2020-21",
+      "goals": 22,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2021-22",
+      "goals": 23,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2022-23",
+      "goals": 19,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2023-24",
+      "goals": 18,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2024-25",
+      "goals": 24,
+      "club": "Liverpool"
+    }
+  ]
+}

@@ -58,6 +58,73 @@ export interface Match {
   };
 }
 
+// ---------------------------------------------------------------------------
+// Parsed season data (from openfootball/england via scripts/parseSeasons.ts)
+// ---------------------------------------------------------------------------
+
+export interface ParsedMatch {
+  home: string;
+  away: string;
+  homeGoals: number;
+  awayGoals: number;
+  matchday: number;
+  played: boolean;
+}
+
+export interface StandingRow {
+  team: string;
+  played: number;
+  won: number;
+  drawn: number;
+  lost: number;
+  gf: number;
+  ga: number;
+  gd: number;
+  points: number;
+}
+
+export interface ParsedSeasonData {
+  season: string;
+  matches: ParsedMatch[];
+  standings: StandingRow[];
+  totalMatchdays: number;
+  totalGoals: number;
+  topScorer: { team: string; goals: number } | null;
+}
+
+export interface SeasonIndexEntry {
+  season: string;
+  champion: string;
+  matches: number;
+  goals: number;
+}
+
+// ---------------------------------------------------------------------------
+// Player DNA types (Sprint 3)
+// ---------------------------------------------------------------------------
+
+export interface PlayerIndex {
+  id: string;
+  name: string;
+  club: string;
+  position?: string;
+  seasons: string[];
+  goals: number;
+  appearances: number;
+}
+
+export interface PlayerSeasonStat {
+  season: string;
+  goals: number;
+  club: string;
+}
+
+export interface PlayerDetail extends PlayerIndex {
+  seasonStats: PlayerSeasonStat[];
+}
+
+// ---------------------------------------------------------------------------
+
 export interface PlayerStats {
   playerId: number;
   seasonId: number;

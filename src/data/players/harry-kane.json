@@ -1,0 +1,72 @@
+{
+  "id": "harry-kane",
+  "name": "Harry Kane",
+  "club": "Tottenham",
+  "position": "Striker",
+  "goals": 213,
+  "appearances": 320,
+  "seasons": [
+    "2012-13",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "seasonStats": [
+    {
+      "season": "2012-13",
+      "goals": 0,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2014-15",
+      "goals": 21,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2015-16",
+      "goals": 25,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2016-17",
+      "goals": 29,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2017-18",
+      "goals": 30,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2018-19",
+      "goals": 17,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2019-20",
+      "goals": 18,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2020-21",
+      "goals": 23,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2021-22",
+      "goals": 17,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2022-23",
+      "goals": 30,
+      "club": "Tottenham"
+    }
+  ]
+}

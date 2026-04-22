@@ -1,13 +1,68 @@
 @import "tailwindcss";
 
-* {
+/* ── Design tokens ──────────────────────────────────────────── */
+:root {
+  /* Stadium skin (default — dark, atmospheric) */
+  --bg-primary:    #0a0a0f;
+  --bg-secondary:  #0f0f1a;
+  --bg-surface:    #1a1a2e;
+  --text-primary:  #f0f0f0;
+  --text-secondary:#8888aa;
+  --accent:        #00A855;
+  --accent-dim:    #00A85533;
+  --border:        #ffffff12;
+
+  /* Editorial skin (triggered on section entry) */
+  --editorial-bg:        #f5f2eb;
+  --editorial-surface:   #ede9df;
+  --editorial-text:      #0d0d0d;
+  --editorial-secondary: #3a3a3a;
+  --editorial-accent:    #1a1a1a;
+  --editorial-border:    #0d0d0d22;
+
+  /* Typography stacks */
+  --font-body:    'Inter', sans-serif;
+  --font-display: 'Playfair Display', serif;
+  --font-mono:    'JetBrains Mono', monospace;
+}
+
+/* Override core tokens inside editorial sections so CSS-var-based children
+   automatically pick up the light skin without needing prop drilling. */
+[data-skin="editorial"] {
+  --bg-primary:    #f5f2eb;
+  --bg-secondary:  #ede9df;
+  --bg-surface:    #e8e4da;
+  --text-primary:  #0d0d0d;
+  --text-secondary:#3a3a3a;
+  --border:        #0d0d0d22;
+  --accent:        #00A855;
+  --accent-dim:    #00A85533;
+}
+
+/* ── Custom Tailwind utilities ──────────────────────────────── */
+@layer utilities {
+  /* Playfair Display — editorial headings only */
+  .font-display { font-family: var(--font-display); }
+  /* JetBrains Mono — all stat values and numbers */
+  .font-stats   { font-family: var(--font-mono); }
+}
+
+/* ── Global base ────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
   box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
-  background: #0a0a0f;
-  color: #f0f0f5;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

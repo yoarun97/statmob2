@@ -1,0 +1,72 @@
+{
+  "id": "son-heung-min",
+  "name": "Son Heung-min",
+  "club": "Tottenham",
+  "position": "Winger",
+  "goals": 117,
+  "appearances": 299,
+  "seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "seasonStats": [
+    {
+      "season": "2015-16",
+      "goals": 4,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2016-17",
+      "goals": 14,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2017-18",
+      "goals": 12,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2018-19",
+      "goals": 12,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2019-20",
+      "goals": 11,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2020-21",
+      "goals": 17,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2021-22",
+      "goals": 23,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2022-23",
+      "goals": 10,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2023-24",
+      "goals": 17,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2024-25",
+      "goals": 9,
+      "club": "Tottenham"
+    }
+  ]
+}

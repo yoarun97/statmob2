@@ -1,0 +1,71 @@
+{
+  "id": "nicolas-anelka",
+  "name": "Nicolas Anelka",
+  "club": "Chelsea",
+  "goals": 125,
+  "appearances": 364,
+  "seasons": [
+    "1997-98",
+    "1998-99",
+    "2001-02",
+    "2002-03",
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12"
+  ],
+  "seasonStats": [
+    {
+      "season": "1997-98",
+      "goals": 6,
+      "club": "Arsenal"
+    },
+    {
+      "season": "1998-99",
+      "goals": 17,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2001-02",
+      "goals": 5,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2002-03",
+      "goals": 14,
+      "club": "Man City"
+    },
+    {
+      "season": "2006-07",
+      "goals": 8,
+      "club": "Bolton"
+    },
+    {
+      "season": "2007-08",
+      "goals": 11,
+      "club": "Bolton"
+    },
+    {
+      "season": "2008-09",
+      "goals": 19,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2009-10",
+      "goals": 11,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2010-11",
+      "goals": 9,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2011-12",
+      "goals": 8,
+      "club": "Chelsea"
+    }
+  ]
+}

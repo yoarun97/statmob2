@@ -1,0 +1,59 @@
+{
+  "id": "roberto-firmino",
+  "name": "Roberto Firmino",
+  "club": "Liverpool",
+  "goals": 111,
+  "appearances": 362,
+  "seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "seasonStats": [
+    {
+      "season": "2015-16",
+      "goals": 10,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2016-17",
+      "goals": 11,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2017-18",
+      "goals": 15,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2018-19",
+      "goals": 12,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2019-20",
+      "goals": 9,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2020-21",
+      "goals": 9,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2021-22",
+      "goals": 11,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2022-23",
+      "goals": 9,
+      "club": "Liverpool"
+    }
+  ]
+}

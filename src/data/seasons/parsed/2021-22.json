@@ -1,0 +1,3273 @@
+{
+  "season": "2021-22",
+  "matches": [
+    {
+      "home": "Brentford",
+      "away": "Arsenal",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Leeds Utd",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Aston Villa",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Southampton",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Crystal Palace",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "West Ham Utd",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 1,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Burnley",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Norwich City",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Everton",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Brentford",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Newcastle Utd",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Watford",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Leicester City",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "matchday": 2,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Crystal Palace",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Everton",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Brentford",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Leeds Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Manchester Utd",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 3,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "West Ham Utd",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Newcastle Utd",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Norwich City",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Aston Villa",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Burnley",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 4,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Leeds Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Brentford",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Southampton",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Crystal Palace",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Arsenal",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Everton",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 5,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Aston Villa",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Burnley",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Norwich City",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Liverpool",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 6,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Everton",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Newcastle Utd",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Southampton",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Norwich City",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Arsenal",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Brentford",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Aston Villa",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 7,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Leeds Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Burnley",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Manchester Utd",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "West Ham Utd",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Crystal Palace",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 8,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Aston Villa",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Norwich City",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Burnley",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Watford",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "matchday": 9,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Arsenal",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Southampton",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Crystal Palace",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Brentford",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Manchester Utd",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Leeds Utd",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Everton",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 10,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Aston Villa",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Norwich City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Liverpool",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 11,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Manchester Utd",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Brentford",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Crystal Palace",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Everton",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Leeds Utd",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 12,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Newcastle Utd",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Southampton",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Aston Villa",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Leeds Utd",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "West Ham Utd",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Watford",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Everton",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Norwich City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Burnley",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Liverpool",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Arsenal",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 14,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Chelsea",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Norwich City",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Arsenal",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 15,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Watford",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Aston Villa",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Leeds Utd",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Southampton",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Manchester Utd",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Newcastle Utd",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "West Ham Utd",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Everton",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Aston Villa",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Leeds Utd",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "West Ham Utd",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Everton",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Newcastle Utd",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Arsenal",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Liverpool",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Arsenal",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Leicester City",
+      "homeGoals": 6,
+      "awayGoals": 3,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Norwich City",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Liverpool",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Burnley",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "West Ham Utd",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Burnley",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Aston Villa",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Liverpool",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Brentford",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Norwich City",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Southampton",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Everton",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester Utd",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Leeds Utd",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Brentford",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Norwich City",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Aston Villa",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Newcastle Utd",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Burnley",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 23,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Watford",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 17,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Everton",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Leeds Utd",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Arsenal",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 24,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Southampton",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Leeds Utd",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Crystal Palace",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Aston Villa",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "West Ham Utd",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Everton",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Norwich City",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Burnley",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Watford",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Manchester Utd",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 26,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 13,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Leeds Utd",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Norwich City",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Watford",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Newcastle Utd",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Aston Villa",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Leicester City",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Leeds Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Crystal Palace",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Brentford",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Southampton",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Arsenal",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Manchester Utd",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Everton",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "matchday": 28,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Watford",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Aston Villa",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Burnley",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Aston Villa",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Norwich City",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 29,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 16,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 20,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Leeds Utd",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "West Ham Utd",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Watford",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Norwich City",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Brentford",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Southampton",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Aston Villa",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Everton",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Newcastle Utd",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Arsenal",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 31,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Everton",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 19,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Leeds Utd",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "West Ham Utd",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Crystal Palace",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Burnley",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 32,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Norwich City",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Arsenal",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Brentford",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Leicester City",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester Utd",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Arsenal",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "matchday": 25,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Manchester Utd",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Aston Villa",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Watford",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Newcastle Utd",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Southampton",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "West Ham Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Everton",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Leeds Utd",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 34,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Liverpool",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Norwich City",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Manchester City",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Chelsea",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Leicester City",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Arsenal",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Manchester Utd",
+      "away": "Brentford",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 35,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Southampton",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Aston Villa",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Watford",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Manchester Utd",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Leeds Utd",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Everton",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "West Ham Utd",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Newcastle Utd",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "matchday": 36,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Liverpool",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Chelsea",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Everton",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "matchday": 30,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Norwich City",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 21,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Manchester City",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Arsenal",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "matchday": 22,
+      "played": true
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Crystal Palace",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Leeds Utd",
+      "away": "Brighton & Hove Albion",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Watford",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "West Ham Utd",
+      "away": "Manchester City",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Norwich City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Brentford",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Newcastle Utd",
+      "away": "Arsenal",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Southampton",
+      "away": "Liverpool",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 37,
+      "played": true
+    },
+    {
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 33,
+      "played": true
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Burnley",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 18,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Leicester City",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "matchday": 27,
+      "played": true
+    },
+    {
+      "home": "Norwich City",
+      "away": "Tottenham Hotspur",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Manchester City",
+      "away": "Aston Villa",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Liverpool",
+      "away": "Wolverhampton Wanderers",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Leicester City",
+      "away": "Southampton",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Manchester Utd",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Chelsea",
+      "away": "Watford",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Burnley",
+      "away": "Newcastle Utd",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "West Ham Utd",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Brentford",
+      "away": "Leeds Utd",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "matchday": 38,
+      "played": true
+    },
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "matchday": 38,
+      "played": true
+    }
+  ],
+  "standings": [
+    {
+      "team": "Manchester City",
+      "played": 38,
+      "won": 29,
+      "drawn": 6,
+      "lost": 3,
+      "gf": 99,
+      "ga": 26,
+      "gd": 73,
+      "points": 93
+    },
+    {
+      "team": "Liverpool",
+      "played": 38,
+      "won": 28,
+      "drawn": 8,
+      "lost": 2,
+      "gf": 94,
+      "ga": 26,
+      "gd": 68,
+      "points": 92
+    },
+    {
+      "team": "Chelsea",
+      "played": 38,
+      "won": 21,
+      "drawn": 11,
+      "lost": 6,
+      "gf": 76,
+      "ga": 33,
+      "gd": 43,
+      "points": 74
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "played": 38,
+      "won": 22,
+      "drawn": 5,
+      "lost": 11,
+      "gf": 69,
+      "ga": 40,
+      "gd": 29,
+      "points": 71
+    },
+    {
+      "team": "Arsenal",
+      "played": 38,
+      "won": 22,
+      "drawn": 3,
+      "lost": 13,
+      "gf": 61,
+      "ga": 48,
+      "gd": 13,
+      "points": 69
+    },
+    {
+      "team": "Manchester Utd",
+      "played": 38,
+      "won": 16,
+      "drawn": 10,
+      "lost": 12,
+      "gf": 57,
+      "ga": 57,
+      "gd": 0,
+      "points": 58
+    },
+    {
+      "team": "West Ham Utd",
+      "played": 38,
+      "won": 16,
+      "drawn": 8,
+      "lost": 14,
+      "gf": 60,
+      "ga": 51,
+      "gd": 9,
+      "points": 56
+    },
+    {
+      "team": "Leicester City",
+      "played": 38,
+      "won": 14,
+      "drawn": 10,
+      "lost": 14,
+      "gf": 62,
+      "ga": 59,
+      "gd": 3,
+      "points": 52
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "played": 38,
+      "won": 12,
+      "drawn": 15,
+      "lost": 11,
+      "gf": 42,
+      "ga": 44,
+      "gd": -2,
+      "points": 51
+    },
+    {
+      "team": "Wolverhampton Wanderers",
+      "played": 38,
+      "won": 15,
+      "drawn": 6,
+      "lost": 17,
+      "gf": 38,
+      "ga": 43,
+      "gd": -5,
+      "points": 51
+    },
+    {
+      "team": "Newcastle Utd",
+      "played": 38,
+      "won": 13,
+      "drawn": 10,
+      "lost": 15,
+      "gf": 44,
+      "ga": 62,
+      "gd": -18,
+      "points": 49
+    },
+    {
+      "team": "Crystal Palace",
+      "played": 38,
+      "won": 11,
+      "drawn": 15,
+      "lost": 12,
+      "gf": 50,
+      "ga": 46,
+      "gd": 4,
+      "points": 48
+    },
+    {
+      "team": "Brentford",
+      "played": 38,
+      "won": 13,
+      "drawn": 7,
+      "lost": 18,
+      "gf": 48,
+      "ga": 56,
+      "gd": -8,
+      "points": 46
+    },
+    {
+      "team": "Aston Villa",
+      "played": 38,
+      "won": 13,
+      "drawn": 6,
+      "lost": 19,
+      "gf": 52,
+      "ga": 54,
+      "gd": -2,
+      "points": 45
+    },
+    {
+      "team": "Southampton",
+      "played": 38,
+      "won": 9,
+      "drawn": 13,
+      "lost": 16,
+      "gf": 43,
+      "ga": 67,
+      "gd": -24,
+      "points": 40
+    },
+    {
+      "team": "Everton",
+      "played": 38,
+      "won": 11,
+      "drawn": 6,
+      "lost": 21,
+      "gf": 43,
+      "ga": 66,
+      "gd": -23,
+      "points": 39
+    },
+    {
+      "team": "Leeds Utd",
+      "played": 38,
+      "won": 9,
+      "drawn": 11,
+      "lost": 18,
+      "gf": 42,
+      "ga": 79,
+      "gd": -37,
+      "points": 38
+    },
+    {
+      "team": "Burnley",
+      "played": 38,
+      "won": 7,
+      "drawn": 14,
+      "lost": 17,
+      "gf": 34,
+      "ga": 53,
+      "gd": -19,
+      "points": 35
+    },
+    {
+      "team": "Watford",
+      "played": 38,
+      "won": 6,
+      "drawn": 5,
+      "lost": 27,
+      "gf": 34,
+      "ga": 77,
+      "gd": -43,
+      "points": 23
+    },
+    {
+      "team": "Norwich City",
+      "played": 38,
+      "won": 5,
+      "drawn": 7,
+      "lost": 26,
+      "gf": 23,
+      "ga": 84,
+      "gd": -61,
+      "points": 22
+    }
+  ],
+  "totalMatchdays": 38,
+  "totalGoals": 1071,
+  "topScorer": {
+    "team": "Manchester City",
+    "goals": 99
+  }
+}

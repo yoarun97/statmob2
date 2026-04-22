@@ -1,0 +1,89 @@
+{
+  "id": "robbie-fowler",
+  "name": "Robbie Fowler",
+  "club": "Liverpool",
+  "goals": 163,
+  "appearances": 379,
+  "seasons": [
+    "1993-94",
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "seasonStats": [
+    {
+      "season": "1993-94",
+      "goals": 12,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1994-95",
+      "goals": 25,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1995-96",
+      "goals": 28,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1996-97",
+      "goals": 18,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1997-98",
+      "goals": 9,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1998-99",
+      "goals": 14,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1999-00",
+      "goals": 3,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2000-01",
+      "goals": 8,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2001-02",
+      "goals": 9,
+      "club": "Leeds"
+    },
+    {
+      "season": "2002-03",
+      "goals": 8,
+      "club": "Leeds"
+    },
+    {
+      "season": "2005-06",
+      "goals": 22,
+      "club": "Man City"
+    },
+    {
+      "season": "2006-07",
+      "goals": 5,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2007-08",
+      "goals": 2,
+      "club": "Liverpool"
+    }
+  ]
+}

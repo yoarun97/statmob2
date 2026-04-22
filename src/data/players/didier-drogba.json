@@ -1,0 +1,66 @@
+{
+  "id": "didier-drogba",
+  "name": "Didier Drogba",
+  "club": "Chelsea",
+  "position": "Striker",
+  "goals": 104,
+  "appearances": 254,
+  "seasons": [
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2014-15"
+  ],
+  "seasonStats": [
+    {
+      "season": "2004-05",
+      "goals": 10,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2005-06",
+      "goals": 12,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2006-07",
+      "goals": 6,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2007-08",
+      "goals": 8,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2008-09",
+      "goals": 5,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2009-10",
+      "goals": 29,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2010-11",
+      "goals": 11,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2011-12",
+      "goals": 11,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2014-15",
+      "goals": 4,
+      "club": "Chelsea"
+    }
+  ]
+}

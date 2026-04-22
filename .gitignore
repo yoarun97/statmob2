@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Raw openfootball data (large cloned repo, not needed in version control)
+src/data/seasons/raw/

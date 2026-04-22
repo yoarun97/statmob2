@@ -1,0 +1,96 @@
+{
+  "id": "wayne-rooney",
+  "name": "Wayne Rooney",
+  "club": "Man Utd",
+  "position": "Forward",
+  "goals": 208,
+  "appearances": 491,
+  "seasons": [
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18"
+  ],
+  "seasonStats": [
+    {
+      "season": "2004-05",
+      "goals": 11,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2005-06",
+      "goals": 16,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2006-07",
+      "goals": 14,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2007-08",
+      "goals": 18,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2008-09",
+      "goals": 12,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2009-10",
+      "goals": 26,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2010-11",
+      "goals": 11,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2011-12",
+      "goals": 27,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2012-13",
+      "goals": 12,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2013-14",
+      "goals": 17,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2014-15",
+      "goals": 12,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2015-16",
+      "goals": 8,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2016-17",
+      "goals": 8,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2017-18",
+      "goals": 10,
+      "club": "Everton"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "michael-owen",
+  "name": "Michael Owen",
+  "club": "Liverpool",
+  "position": "Striker",
+  "goals": 150,
+  "appearances": 326,
+  "seasons": [
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09"
+  ],
+  "seasonStats": [
+    {
+      "season": "1996-97",
+      "goals": 18,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1997-98",
+      "goals": 18,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1998-99",
+      "goals": 18,
+      "club": "Liverpool"
+    },
+    {
+      "season": "1999-00",
+      "goals": 11,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2000-01",
+      "goals": 16,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2001-02",
+      "goals": 19,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2002-03",
+      "goals": 19,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2003-04",
+      "goals": 16,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2005-06",
+      "goals": 7,
+      "club": "Newcastle"
+    },
+    {
+      "season": "2006-07",
+      "goals": 7,
+      "club": "Newcastle"
+    },
+    {
+      "season": "2007-08",
+      "goals": 8,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2008-09",
+      "goals": 1,
+      "club": "Man Utd"
+    }
+  ]
+}

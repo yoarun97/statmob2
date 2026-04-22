@@ -1,5 +1,7 @@
 # Terrace — Claude Instructions
 
+@~/.claude/CLAUDE.md
+
 ## Project Vision
 A rich, cinematic football stats dashboard. EPL-first, historically deep (back to ~1997).
 Think: body-part hover stats on a player silhouette, season-over-season timelines,
@@ -51,13 +53,16 @@ src/
   assets/        Images, SVGs, fonts
 ```
 
-## Workflow Rules (critical — learned the hard way)
+## Workflow Rules (critical — permanent)
 - Make all changes locally first.
-- Only push to GitHub when the user explicitly says to ("push it", "looks good", etc.).
+- **Never push to GitHub without explicit instruction from the user.** Wait for "push it", "ship it", "go ahead", etc.
+- Before any push: run the dev server locally, confirm the user has reviewed it first.
+- All GitHub pushes must go to a private repository only. Never public.
+- After every sprint: default action is run dev server, report done, stand by. Do NOT push.
 - Never commit directly to main.
-- Branch: feature/description, fix/description, experiment/description.
+- Branch naming: feature/description, fix/description, experiment/description.
 - Run `npx tsc --noEmit` after any series of changes. Fix all errors before stopping.
-- Before touching routing or shared layout: flag it to the user first.
+- Before touching routing, global layout, or shared components: flag it to the user first.
 
 ## Visual Principles
 - Dark-first. Background: #0a0a0f or similar deep navy/charcoal.

@@ -1,0 +1,66 @@
+{
+  "id": "ole-gunnar-solskjaer",
+  "name": "Ole Gunnar Solskjaer",
+  "club": "Man Utd",
+  "position": "Striker",
+  "goals": 91,
+  "appearances": 235,
+  "seasons": [
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2006-07"
+  ],
+  "seasonStats": [
+    {
+      "season": "1996-97",
+      "goals": 18,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1997-98",
+      "goals": 6,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1998-99",
+      "goals": 12,
+      "club": "Man Utd"
+    },
+    {
+      "season": "1999-00",
+      "goals": 12,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2000-01",
+      "goals": 10,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2001-02",
+      "goals": 25,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2002-03",
+      "goals": 5,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2003-04",
+      "goals": 2,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2006-07",
+      "goals": 1,
+      "club": "Man Utd"
+    }
+  ]
+}

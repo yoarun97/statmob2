@@ -1,0 +1,59 @@
+{
+  "id": "thierry-henry",
+  "name": "Thierry Henry",
+  "club": "Arsenal",
+  "goals": 175,
+  "appearances": 258,
+  "seasons": [
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07"
+  ],
+  "seasonStats": [
+    {
+      "season": "1999-00",
+      "goals": 17,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2000-01",
+      "goals": 17,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2001-02",
+      "goals": 24,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2002-03",
+      "goals": 24,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2003-04",
+      "goals": 30,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2004-05",
+      "goals": 25,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2005-06",
+      "goals": 27,
+      "club": "Arsenal"
+    },
+    {
+      "season": "2006-07",
+      "goals": 10,
+      "club": "Arsenal"
+    }
+  ]
+}

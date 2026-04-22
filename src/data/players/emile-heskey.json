@@ -1,0 +1,102 @@
+{
+  "id": "emile-heskey",
+  "name": "Emile Heskey",
+  "club": "Liverpool",
+  "position": "Striker",
+  "goals": 110,
+  "appearances": 516,
+  "seasons": [
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09"
+  ],
+  "seasonStats": [
+    {
+      "season": "1994-95",
+      "goals": 3,
+      "club": "Leicester"
+    },
+    {
+      "season": "1995-96",
+      "goals": 7,
+      "club": "Leicester"
+    },
+    {
+      "season": "1996-97",
+      "goals": 10,
+      "club": "Leicester"
+    },
+    {
+      "season": "1997-98",
+      "goals": 10,
+      "club": "Leicester"
+    },
+    {
+      "season": "1998-99",
+      "goals": 7,
+      "club": "Leicester"
+    },
+    {
+      "season": "1999-00",
+      "goals": 7,
+      "club": "Leicester"
+    },
+    {
+      "season": "2000-01",
+      "goals": 14,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2001-02",
+      "goals": 9,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2002-03",
+      "goals": 9,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2003-04",
+      "goals": 7,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2004-05",
+      "goals": 8,
+      "club": "Birmingham"
+    },
+    {
+      "season": "2005-06",
+      "goals": 8,
+      "club": "Birmingham"
+    },
+    {
+      "season": "2006-07",
+      "goals": 6,
+      "club": "Wigan"
+    },
+    {
+      "season": "2007-08",
+      "goals": 10,
+      "club": "Wigan"
+    },
+    {
+      "season": "2008-09",
+      "goals": 5,
+      "club": "Aston Villa"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "raheem-sterling",
+  "name": "Raheem Sterling",
+  "club": "Man City",
+  "position": "Winger",
+  "goals": 102,
+  "appearances": 339,
+  "seasons": [
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "seasonStats": [
+    {
+      "season": "2012-13",
+      "goals": 2,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2013-14",
+      "goals": 9,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2014-15",
+      "goals": 7,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2015-16",
+      "goals": 6,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2016-17",
+      "goals": 7,
+      "club": "Man City"
+    },
+    {
+      "season": "2017-18",
+      "goals": 18,
+      "club": "Man City"
+    },
+    {
+      "season": "2018-19",
+      "goals": 17,
+      "club": "Man City"
+    },
+    {
+      "season": "2019-20",
+      "goals": 20,
+      "club": "Man City"
+    },
+    {
+      "season": "2020-21",
+      "goals": 10,
+      "club": "Man City"
+    },
+    {
+      "season": "2021-22",
+      "goals": 13,
+      "club": "Man City"
+    },
+    {
+      "season": "2022-23",
+      "goals": 6,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2023-24",
+      "goals": 4,
+      "club": "Chelsea"
+    }
+  ]
+}

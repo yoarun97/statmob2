@@ -1,0 +1,30 @@
+{
+  "id": "erling-haaland",
+  "name": "Erling Haaland",
+  "club": "Man City",
+  "position": "Striker",
+  "goals": 97,
+  "appearances": 108,
+  "seasons": [
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "seasonStats": [
+    {
+      "season": "2022-23",
+      "goals": 36,
+      "club": "Man City"
+    },
+    {
+      "season": "2023-24",
+      "goals": 27,
+      "club": "Man City"
+    },
+    {
+      "season": "2024-25",
+      "goals": 22,
+      "club": "Man City"
+    }
+  ]
+}

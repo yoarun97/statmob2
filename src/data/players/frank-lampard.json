@@ -1,0 +1,132 @@
+{
+  "id": "frank-lampard",
+  "name": "Frank Lampard",
+  "club": "Chelsea",
+  "position": "Midfielder",
+  "goals": 177,
+  "appearances": 609,
+  "seasons": [
+    "1995-96",
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15"
+  ],
+  "seasonStats": [
+    {
+      "season": "1995-96",
+      "goals": 0,
+      "club": "West Ham"
+    },
+    {
+      "season": "1996-97",
+      "goals": 1,
+      "club": "West Ham"
+    },
+    {
+      "season": "1997-98",
+      "goals": 4,
+      "club": "West Ham"
+    },
+    {
+      "season": "1998-99",
+      "goals": 5,
+      "club": "West Ham"
+    },
+    {
+      "season": "1999-00",
+      "goals": 7,
+      "club": "West Ham"
+    },
+    {
+      "season": "2000-01",
+      "goals": 7,
+      "club": "West Ham"
+    },
+    {
+      "season": "2001-02",
+      "goals": 5,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2002-03",
+      "goals": 6,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2003-04",
+      "goals": 10,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2004-05",
+      "goals": 13,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2005-06",
+      "goals": 16,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2006-07",
+      "goals": 11,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2007-08",
+      "goals": 10,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2008-09",
+      "goals": 12,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2009-10",
+      "goals": 22,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2010-11",
+      "goals": 12,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2011-12",
+      "goals": 11,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2012-13",
+      "goals": 15,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2013-14",
+      "goals": 6,
+      "club": "Chelsea"
+    },
+    {
+      "season": "2014-15",
+      "goals": 3,
+      "club": "Man City"
+    }
+  ]
+}

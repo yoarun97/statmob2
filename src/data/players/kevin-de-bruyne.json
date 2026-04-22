@@ -1,0 +1,71 @@
+{
+  "id": "kevin-de-bruyne",
+  "name": "Kevin De Bruyne",
+  "club": "Man City",
+  "goals": 78,
+  "appearances": 256,
+  "seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "seasonStats": [
+    {
+      "season": "2015-16",
+      "goals": 7,
+      "club": "Man City"
+    },
+    {
+      "season": "2016-17",
+      "goals": 6,
+      "club": "Man City"
+    },
+    {
+      "season": "2017-18",
+      "goals": 8,
+      "club": "Man City"
+    },
+    {
+      "season": "2018-19",
+      "goals": 2,
+      "club": "Man City"
+    },
+    {
+      "season": "2019-20",
+      "goals": 13,
+      "club": "Man City"
+    },
+    {
+      "season": "2020-21",
+      "goals": 6,
+      "club": "Man City"
+    },
+    {
+      "season": "2021-22",
+      "goals": 15,
+      "club": "Man City"
+    },
+    {
+      "season": "2022-23",
+      "goals": 7,
+      "club": "Man City"
+    },
+    {
+      "season": "2023-24",
+      "goals": 3,
+      "club": "Man City"
+    },
+    {
+      "season": "2024-25",
+      "goals": 2,
+      "club": "Man City"
+    }
+  ]
+}

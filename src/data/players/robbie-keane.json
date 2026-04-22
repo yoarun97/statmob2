@@ -1,0 +1,84 @@
+{
+  "id": "robbie-keane",
+  "name": "Robbie Keane",
+  "club": "Tottenham",
+  "position": "Striker",
+  "goals": 126,
+  "appearances": 369,
+  "seasons": [
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11"
+  ],
+  "seasonStats": [
+    {
+      "season": "1999-00",
+      "goals": 12,
+      "club": "Coventry"
+    },
+    {
+      "season": "2000-01",
+      "goals": 9,
+      "club": "Leeds"
+    },
+    {
+      "season": "2001-02",
+      "goals": 3,
+      "club": "Leeds"
+    },
+    {
+      "season": "2002-03",
+      "goals": 8,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2003-04",
+      "goals": 14,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2004-05",
+      "goals": 11,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2005-06",
+      "goals": 16,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2006-07",
+      "goals": 11,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2007-08",
+      "goals": 11,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2008-09",
+      "goals": 5,
+      "club": "Liverpool"
+    },
+    {
+      "season": "2009-10",
+      "goals": 5,
+      "club": "Tottenham"
+    },
+    {
+      "season": "2010-11",
+      "goals": 9,
+      "club": "Tottenham"
+    }
+  ]
+}

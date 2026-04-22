@@ -1,0 +1,66 @@
+{
+  "id": "marcus-rashford",
+  "name": "Marcus Rashford",
+  "club": "Man Utd",
+  "position": "Forward",
+  "goals": 88,
+  "appearances": 284,
+  "seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "seasonStats": [
+    {
+      "season": "2015-16",
+      "goals": 8,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2016-17",
+      "goals": 5,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2017-18",
+      "goals": 7,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2018-19",
+      "goals": 10,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2019-20",
+      "goals": 17,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2020-21",
+      "goals": 11,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2021-22",
+      "goals": 5,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2022-23",
+      "goals": 17,
+      "club": "Man Utd"
+    },
+    {
+      "season": "2023-24",
+      "goals": 8,
+      "club": "Man Utd"
+    }
+  ]
+}

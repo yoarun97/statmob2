@@ -1,0 +1,72 @@
+{
+  "id": "sergio-aguero",
+  "name": "Sergio Aguero",
+  "club": "Man City",
+  "position": "Striker",
+  "goals": 184,
+  "appearances": 275,
+  "seasons": [
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21"
+  ],
+  "seasonStats": [
+    {
+      "season": "2011-12",
+      "goals": 23,
+      "club": "Man City"
+    },
+    {
+      "season": "2012-13",
+      "goals": 12,
+      "club": "Man City"
+    },
+    {
+      "season": "2013-14",
+      "goals": 17,
+      "club": "Man City"
+    },
+    {
+      "season": "2014-15",
+      "goals": 26,
+      "club": "Man City"
+    },
+    {
+      "season": "2015-16",
+      "goals": 24,
+      "club": "Man City"
+    },
+    {
+      "season": "2016-17",
+      "goals": 20,
+      "club": "Man City"
+    },
+    {
+      "season": "2017-18",
+      "goals": 21,
+      "club": "Man City"
+    },
+    {
+      "season": "2018-19",
+      "goals": 21,
+      "club": "Man City"
+    },
+    {
+      "season": "2019-20",
+      "goals": 23,
+      "club": "Man City"
+    },
+    {
+      "season": "2020-21",
+      "goals": 6,
+      "club": "Man City"
+    }
+  ]
+}
