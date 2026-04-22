@@ -71,7 +71,7 @@ export function SeasonContent() {
         ) : (
           <>
             {/* League table — newspaper print style, no cards, pure typography */}
-            <div>
+            <div className="overflow-x-auto" style={{ WebkitOverflowScrolling: 'touch' }}><div style={{ minWidth: 320 }}>
               {/* Thick top rule */}
               <div style={{ borderTop: '3px solid var(--editorial-text)' }} />
 
@@ -194,7 +194,7 @@ export function SeasonContent() {
 
               {/* Thick bottom rule */}
               <div style={{ borderTop: '3px solid var(--editorial-text)' }} />
-            </div>
+            </div></div></div>
 
             {/* Tabs */}
             <Tabs.Root defaultValue="scorers" className="flex flex-col gap-4">
